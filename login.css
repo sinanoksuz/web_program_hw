@@ -1,0 +1,23 @@
+.login-wrap{
+    width:350px;
+    margin:0 auto;
+    margin-top:5%;
+    border:1px solid #eee;
+    padding:15px;
+    background:#f0f0d8;
+    border-radius:4px;
+    
+  }
+  .form-group.last{
+    margin-bottom:3px;
+    padding:2px;
+  }
+  .auth_logo{
+    padding:10px;
+    
+  }
+  
+    .btn-1 {
+      margin:auto;
+      width:50%;
+  }
